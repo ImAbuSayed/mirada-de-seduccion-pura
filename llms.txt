@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-de-seduccion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Mirada de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-seduccion-pura/) |
+| **Get License** | [Secure Licensing Rights for Mirada de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-seduccion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3976)
 
 ---
 
