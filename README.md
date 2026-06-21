@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-de-seduccion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Mirada de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-seduccion-pura/) |
+| **Get License** | [Get a Licensing Quote for Mirada de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-seduccion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la disco entera desaparece
+> Un juego de sombras, la tensión crece y crece
+> Bailando tan suave, la noche te obedece
+> Ese beso tuyo es el premio que apetece
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
