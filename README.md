@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Mirada de seducción pura |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-de-seduccion-pura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Mirada de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-seduccion-pura/) |
+| **Get License** | [Music Rights & Licensing for Mirada de seducción pura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-seduccion-pura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tú me miras y la disco entera desaparece
-> Un juego de sombras, la tensión crece y crece
-> Bailando tan suave, la noche te obedece
-> Ese beso tuyo es el premio que apetece
+> Your eyes pull me in like a midnight flame
+> Burning slow, girl, I love when you say my name
+> This vibe is heavy, can you feel the same?
+> Mirada de seducción pura, no games
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
